@@ -27,6 +27,14 @@
 
 #
 
+### 📊 Stats
+
+![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanushnaidu77&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
+
 ### 🌐 Connect with me:
 <div align="center>
   <p align="center>
