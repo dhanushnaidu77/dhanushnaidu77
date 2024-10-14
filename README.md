@@ -19,12 +19,12 @@
 ### 📺 YouTube Channel
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Connecting DataDog Agent to minikube cluster on Ubuntu](https://ytcards.demolab.com/?id=LWs6H9YGDuY&title=Connecting+DataDog+Agent+to+minikube+cluster+on+Ubuntu&lang=en&timestamp=1728931937&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Connecting DataDog Agent to minikube cluster on Ubuntu")](https://www.youtube.com/watch?v=LWs6H9YGDuY)
 [![Install HOME ASSISTANT on PROXMOX 7](https://ytcards.demolab.com/?id=oo4fEwHh4-w&title=Install+HOME+ASSISTANT+on+PROXMOX+7&lang=en&timestamp=1717245029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Install HOME ASSISTANT on PROXMOX 7")](https://www.youtube.com/watch?v=oo4fEwHh4-w)
 [![PROXMOX: name resolution failure](https://ytcards.demolab.com/?id=U94KL0TphPk&title=PROXMOX%3A+name+resolution+failure&lang=en&timestamp=1716816473&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "PROXMOX: name resolution failure")](https://www.youtube.com/watch?v=U94KL0TphPk)
 [![View Saved Wifi Password // Windows 11 // CMD](https://ytcards.demolab.com/?id=VSUDM79fVZ0&title=View+Saved+Wifi+Password+%2F%2F+Windows+11+%2F%2F+CMD&lang=en&timestamp=1713553363&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "View Saved Wifi Password // Windows 11 // CMD")](https://www.youtube.com/watch?v=VSUDM79fVZ0)
 [![Node-RED FUNDAMENTALS](https://ytcards.demolab.com/?id=vG_T_GgrLJw&title=Node-RED+FUNDAMENTALS&lang=en&timestamp=1711782032&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Node-RED FUNDAMENTALS")](https://www.youtube.com/watch?v=vG_T_GgrLJw)
 [![How to convert a pem file to ppk](https://ytcards.demolab.com/?id=c_70qkUZ_80&title=How+to+convert+a+pem+file+to+ppk&lang=en&timestamp=1711263615&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to convert a pem file to ppk")](https://www.youtube.com/watch?v=c_70qkUZ_80)
-[![How to run Ubuntu Desktop on an AWS EC2 instance](https://ytcards.demolab.com/?id=d_EqadvOjEw&title=How+to+run+Ubuntu+Desktop+on+an+AWS+EC2+instance&lang=en&timestamp=1711090827&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to run Ubuntu Desktop on an AWS EC2 instance")](https://www.youtube.com/watch?v=d_EqadvOjEw)
 <!-- END YOUTUBE-CARDS -->
 
 #
