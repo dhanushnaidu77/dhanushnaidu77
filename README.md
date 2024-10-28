@@ -19,12 +19,12 @@
 ### 📺 YouTube Channel
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Visualize GitHub Activity with Grafana Cloud](https://ytcards.demolab.com/?id=m5a0M6Ey32Y&title=Visualize+GitHub+Activity+with+Grafana+Cloud&lang=en&timestamp=1730124045&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Visualize GitHub Activity with Grafana Cloud")](https://www.youtube.com/watch?v=m5a0M6Ey32Y)
 [![Auto Open Terminal on Boot - Ubuntu Guide](https://ytcards.demolab.com/?id=zKEV_kMPiC4&title=Auto+Open+Terminal+on+Boot+-+Ubuntu+Guide&lang=en&timestamp=1729234192&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Auto Open Terminal on Boot - Ubuntu Guide")](https://www.youtube.com/watch?v=zKEV_kMPiC4)
 [![Connecting DataDog Agent to minikube cluster on Ubuntu](https://ytcards.demolab.com/?id=LWs6H9YGDuY&title=Connecting+DataDog+Agent+to+minikube+cluster+on+Ubuntu&lang=en&timestamp=1728931937&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Connecting DataDog Agent to minikube cluster on Ubuntu")](https://www.youtube.com/watch?v=LWs6H9YGDuY)
 [![Install HOME ASSISTANT on PROXMOX 7](https://ytcards.demolab.com/?id=oo4fEwHh4-w&title=Install+HOME+ASSISTANT+on+PROXMOX+7&lang=en&timestamp=1717245029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Install HOME ASSISTANT on PROXMOX 7")](https://www.youtube.com/watch?v=oo4fEwHh4-w)
 [![PROXMOX: name resolution failure](https://ytcards.demolab.com/?id=U94KL0TphPk&title=PROXMOX%3A+name+resolution+failure&lang=en&timestamp=1716816473&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "PROXMOX: name resolution failure")](https://www.youtube.com/watch?v=U94KL0TphPk)
 [![View Saved Wifi Password // Windows 11 // CMD](https://ytcards.demolab.com/?id=VSUDM79fVZ0&title=View+Saved+Wifi+Password+%2F%2F+Windows+11+%2F%2F+CMD&lang=en&timestamp=1713553363&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "View Saved Wifi Password // Windows 11 // CMD")](https://www.youtube.com/watch?v=VSUDM79fVZ0)
-[![Node-RED FUNDAMENTALS](https://ytcards.demolab.com/?id=vG_T_GgrLJw&title=Node-RED+FUNDAMENTALS&lang=en&timestamp=1711782032&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Node-RED FUNDAMENTALS")](https://www.youtube.com/watch?v=vG_T_GgrLJw)
 <!-- END YOUTUBE-CARDS -->
 
 #
