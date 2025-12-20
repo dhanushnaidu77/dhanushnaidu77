@@ -19,12 +19,7 @@
 ### 📺 YouTube Channel
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Setting up PLEX on a mini PC // UBUNTU](https://ytcards.demolab.com/?id=c3AKKQkvxIQ&title=Setting+up+PLEX+on+a+mini+PC+%2F%2F+UBUNTU&lang=en&timestamp=1730905244&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Setting up PLEX on a mini PC // UBUNTU")](https://www.youtube.com/watch?v=c3AKKQkvxIQ)
-[![Stuck on Boot Menu after Dualboot [FIX]](https://ytcards.demolab.com/?id=MGXD8F_Rp8A&title=Stuck+on+Boot+Menu+after+Dualboot+%5BFIX%5D&lang=en&timestamp=1730298615&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Stuck on Boot Menu after Dualboot [FIX]")](https://www.youtube.com/watch?v=MGXD8F_Rp8A)
-[![Visualize GitHub Activity with Grafana Cloud](https://ytcards.demolab.com/?id=m5a0M6Ey32Y&title=Visualize+GitHub+Activity+with+Grafana+Cloud&lang=en&timestamp=1730124045&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Visualize GitHub Activity with Grafana Cloud")](https://www.youtube.com/watch?v=m5a0M6Ey32Y)
-[![Auto Open Terminal on Boot - Ubuntu Guide](https://ytcards.demolab.com/?id=zKEV_kMPiC4&title=Auto+Open+Terminal+on+Boot+-+Ubuntu+Guide&lang=en&timestamp=1729234192&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Auto Open Terminal on Boot - Ubuntu Guide")](https://www.youtube.com/watch?v=zKEV_kMPiC4)
-[![Connecting DataDog Agent to minikube cluster on Ubuntu](https://ytcards.demolab.com/?id=LWs6H9YGDuY&title=Connecting+DataDog+Agent+to+minikube+cluster+on+Ubuntu&lang=en&timestamp=1728931937&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Connecting DataDog Agent to minikube cluster on Ubuntu")](https://www.youtube.com/watch?v=LWs6H9YGDuY)
-[![Install HOME ASSISTANT on PROXMOX 7](https://ytcards.demolab.com/?id=oo4fEwHh4-w&title=Install+HOME+ASSISTANT+on+PROXMOX+7&lang=en&timestamp=1717245029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Install HOME ASSISTANT on PROXMOX 7")](https://www.youtube.com/watch?v=oo4fEwHh4-w)
+
 <!-- END YOUTUBE-CARDS -->
 
 #
